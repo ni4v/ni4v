@@ -30,13 +30,6 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-**Dados & Tracking**
-
-![Excel](https://img.shields.io/badge/Excel_/_Planilhas-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![UTM](https://img.shields.io/badge/UTM_Tracking-555555?style=for-the-badge&logoColor=white)
-
 ## 📈 GitHub
 
 <div align="center">
