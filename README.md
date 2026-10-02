@@ -30,23 +30,6 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-## 📈 GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ni4v&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni4v&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
-
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ni4v/ni4v/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ni4v/ni4v/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/ni4v/ni4v/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ## 🔗 Contato
 
 <a href="https://www.linkedin.com/in/nicoleavieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
